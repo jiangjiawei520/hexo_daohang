@@ -1,0 +1,20 @@
+- name: Vultr(服务器)
+  url: https://www.vultr.com/
+  img: /images/vultr.jpg
+  description: 
+- name: Godaddy(域名)
+  url: https://sg.godaddy.com/zh
+  img: /images/godaddy.jpg
+  description: 
+- name: Certbot(ssl证书)
+  url: https://certbot.eff.org/
+  img: /images/certbot.jpg
+  description: 
+- name: unDraw(矢量图)
+  url: https://undraw.co/
+  img: /images/default.jpg
+  description: 
+- name: 网页设计图
+  url: https://www.uplabs.com/
+  img: /images/default.jpg
+  description: 

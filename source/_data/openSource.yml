@@ -1,0 +1,20 @@
+- name: Bootstrap
+  url: http://www.bootcss.com/
+  img: /images/bootcss.jpg
+  description: 
+- name: Layui
+  url: http://www.layui.com/
+  img: /images/layui.png
+  description: 
+- name: 修罗社区
+  url: http://xiuno.com/
+  img: /images/shequ.png
+  description: 
+- name: EasyWechat
+  url: https://www.easywechat.com/
+  img: /images/easywechat.jpg
+  description: 
+- name: PHP采集器
+  url: https://querylist.cc/
+  img: /images/php.png
+  description: 

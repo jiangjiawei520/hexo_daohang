@@ -1,0 +1,32 @@
+- name: FCC
+  url: https://www.freecodecamp.one/
+  img: /images/fcc.jpg
+  description: 
+- name: 慕课网
+  url: http://www.imooc.com/
+  img: /images/mukewang.jpg
+  description: 
+- name: 实验楼
+  url: https://www.shiyanlou.com/
+  img: /images/shiyanlou.png
+  description: 
+- name: W3cschool
+  url: www.w3cschool.cn/
+  img: /images/w3c.jpg
+  description: 
+- name: MDN(前端)
+  url: https://developer.mozilla.org/zh-CN/
+  img: /images/default.jpg
+  description: 
+- name: Leetcode
+  url: https://leetcode-cn.com/
+  img: /images/LeetCode.jpg
+  description: 
+- name: codingdict
+  url: http://codingdict.com/tutorials
+  img: /images/logo-codingdict.png
+  description: IT编程基础教程|编程字典
+- name: MongoDB
+  url: https://www.mongodb.com/
+  img: /images/default.jpg
+  description: MongoDB是为现代应用程序开发人员和云时代构建的基于文档的通用分布式数据库

@@ -1,0 +1,4 @@
+- name: Github
+  url: https://github.com/
+  img: /images/logos/github.png
+  description: 面向开源及私有软件项目的托管平台。

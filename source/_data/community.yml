@@ -1,0 +1,56 @@
+- name: Laravel社区
+  url: https://laravel-china.org/
+  img: /images/learnku.png
+  description: 
+- name: Python社区
+  url: https://pythoncaff.com/
+  img: /images/python.png
+  description: 
+- name: GO社区
+  url: https://golangcaff.com/
+  img: /images/go.png
+  description: 
+- name: GO中文网
+  url: https://studygolang.com/
+  img: /images/go.png
+  description: 
+- name: PHPChina
+  url: http://www.phpchina.com/
+  img: /images/php.png
+  description: 
+- name: Fly社区
+  url: http://fly.layui.com/
+  img: /images/Fly.png
+  description: 
+- name: Vue社区
+  url: https://vuejscaff.com/
+  img: /images/vue.png
+  description: 
+- name: Node社区
+  url: https://cnodejs.org/
+  img: /images/Node.jpg
+  description: 
+- name: 微信小程序
+  url: http://www.henkuai.com/forum.php
+  img: /images/easywechat.jpg
+  description: 
+- name: 小程序社区
+  url: http://www.wxapp-union.com/
+  img: /images/shequ.png
+  description: 
+- name: Codeforge
+  url: http://www.codeforge.cn/
+  img: /images/default.jpg
+  description: 
+- name: Linux开源社区
+  url: https://linux.cn/
+  img: /images/linux.png
+  description: 
+- name: 伯乐在线
+  url: http://blog.jobbole.com/
+  img: /images/logo-jobbloe.png
+  description: 
+- name: 一刻(微信社区)
+  url: https://yike.io/
+  img: /images/easywechat.jpg
+  description: 

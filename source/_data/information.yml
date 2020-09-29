@@ -1,0 +1,20 @@
+- name: Zcool站酷
+  url:  http://www.zcool.com.cn/
+  img: /images/default.jpg
+  description: 
+- name: 代码湾
+  url:  http://codebay.cn/
+  img: /images/default.jpg
+  description: 
+- name: 程序员
+  url:  http://www.techug.com/
+  img: /images/default.jpg
+  description: 
+- name: 春秋论坛
+  url:  https://bbs.ichunqiu.com/portal.php
+  img: /images/default.jpg
+  description: 
+- name: 吾爱编程
+  url:  http://www.itbiancheng.com/
+  img: /images/default.jpg
+  description: 

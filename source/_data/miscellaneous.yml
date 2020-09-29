@@ -1,0 +1,28 @@
+- name: GItHub
+  url: https://github.com/
+  img: /images/logos/github.png
+  description: 面向开源及私有软件项目的托管平台。
+- name: 开源中国
+  url: http://www.oschina.net/
+  img: /images/logo-oschina.jpg
+  description: OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念,推广开源项目,为 IT 开发者提供了一个发现、使用、并交流开源技术的平台
+- name: 掘金
+  url: https://juejin.im/
+  img: /images/juejin.png
+  description: 只有高手分享的中文技术社区
+- name: 吾爱破解
+  url: https://www.52pojie.cn/
+  img: /images/pojie.png
+  description: 
+- name: segmentfault
+  url: https://segmentfault.com/
+  img: /images/segmentfault.png
+  description: 
+- name: V2EX
+  url: https://www.v2ex.com/
+  img: /images/v2ex.png
+  description: 
+- name: 博客园
+  url: https://www.cnblogs.com/
+  img: /images/logo-cnblogs.svg
+  description: 

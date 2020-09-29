@@ -1,0 +1,52 @@
+- name: BootCDN
+  url: http://www.bootcdn.cn/
+  img: /images/bootcdn.png
+  description: 
+- name: Font Awesome
+  url: http://fontawesome.dashgame.com/
+  img: /images/fontawesome.jpg
+  description: 
+- name: 每日答答
+  url: https://1024dada.com/
+  img: /images/default.jpg
+  description: 
+- name: 1024搜索
+  url: https://1024ss.com/
+  img: /images/logo-1024ss.png
+  description: 
+- name: 一早一晚
+  url: http://yizaoyiwan.com/
+  img: /images/default.jpg
+  description: 
+- name: 很快(微信)
+  url: http://www.henkuai.com/forum.php
+  img: /images/default.jpg
+  description: 
+- name: 快应用
+  url: https://www.quickapp.cn/
+  img: /images/default.jpg
+  description: 
+- name: Markdown
+  url: http://cv.ftqq.com/?fr=github#
+  img: /images/default.jpg
+  description: 
+- name: Chrome
+  url: http://www.cnplugins.com/zhuanti/
+  img: /images/default.jpg
+  description: 
+- name: phpMyAdmin
+  url: http://mysql.myhostadmin.net/
+  img: /images/default.jpg
+  description: 
+- name: MD5解密
+  url: https://somd5.com/
+  img: /images/default.jpg
+  description: 
+- name: API文档
+  url: https://www.showdoc.cc/web/#/
+  img: /images/default.jpg
+  description: 
+- name: 视频解析
+  url: http://czjx8.com/
+  img: /images/default.jpg
+  description: 

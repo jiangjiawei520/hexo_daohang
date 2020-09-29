@@ -1,0 +1,24 @@
+- name: godaddy域名
+  url: https://sso.godaddy.com/
+  img: /images/yuming.jpg
+  description: 
+- name: 零点虚拟机
+  url: https://pr18.cn/index.php/
+  img: /images/xunizhuji.jpg
+  description: 
+- name: Freenom域名
+  url: https://www.freenom.com/
+  img: /images/yuming.jpg
+  description: 
+- name: Cloudflare管理
+  url: https://www.cloudflare.com/
+  img: /images/Cloudflare.jpg
+  description: 
+- name: 蓝奏·云存储
+  url: https://pc.woozooo.com/
+  img: /images/q2.gif
+  description: 
+- name: 115盘
+  url: https://115.com/
+  img: /images/logo-115.jpg
+  description: 

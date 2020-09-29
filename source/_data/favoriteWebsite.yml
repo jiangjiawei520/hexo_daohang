@@ -1,0 +1,40 @@
+- name: 主机交流论坛
+  url: https://hostloc.com
+  img: /images/luntan.jpg
+  description: 
+- name: 美国身份生成器
+  url: http://www.haoweichi.com/
+  img: /images/shenfen.png
+  description: 
+- name: 十分钟临时邮箱
+  url: http://www.linshiyouxiang.net/
+  img: /images/youxiang.jpg
+  description: 
+- name: IP地址查询
+  url: https://whatismyipaddress.com/
+  img: /images/ip.jpg
+  description: 
+- name: 谷歌网上论坛
+  url: https://groups.google.com/forum/#!overview/
+  img: /images/google luntan.jpg
+  description: 
+- name: albb矢量图标库
+  url: https://www.iconfont.cn/
+  img: /images/tubiao.png
+  description: 
+- name: Linux命令大全
+  url: http://man.linuxde.net/
+  img: /images/linux.jpg
+  description: 
+- name: Hexo博客框架
+  url: https://hexo.io/
+  img: /images/hexo.jpg
+  description: 
+- name: 月亮的小店
+  url: https://21g.in/
+  img: /images/dianpu.png
+  description: 
+- name: 大专栏
+  url: https://www.dazhuanlan.com/
+  img: /images/zhuanlan.png
+  description: 

@@ -1,0 +1,32 @@
+- name: Github
+  url: https://github.com/
+  img: /images/logos/github.png
+  description: 面向开源及私有软件项目的托管平台。
+- name: Coding
+  url: https://coding.net/
+  img: /images/coding.png
+  description: Coding 是一个面向开发者的云端开发平台，目前提供代码托管，运行空间，质量控制，项目管理等功能。
+- name: 开源中国
+  url: https://my.oschina.net/
+  img: /images/logo-oschina.jpg
+  description: OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念,推广开源项目,为 IT 开发者提供了一个发现、使用、并交流开源技术的平台
+- name: gitee
+  url: https://gitee.com/all-about-git
+  img: /images/logo-gitee.svg
+  description: 中国推出的基于 Git 的代码托管服务。
+- name: 掘金
+  url: https://juejin.im/
+  img: /images/juejin.png
+  description: 只有高手分享的中文技术社区
+- name: 踏得
+  url: https://techbrood.com/
+  img: /images/tade.png
+  description: 前端踏得网是领先的Web作品分享平台, 拥有海量免费HTML5,CSS3,WebGL,Three.js,WebVR,WebAR,WebXR,Vue,React,Angular代码实例、应用程序模板和在线教程。
+- name: GIT教程
+  url: http://backlogtool.com/git-guide/cn/
+  img: /images/logo-backlog.png
+  description: 猴子都能懂的GIT入门，图文并茂
+- name: Github的教程
+  url: https://github.com/geeeeeeeeek/git-recipes/wiki
+  img: /images/logos/github.png
+  description: Git和Github结合的教程。

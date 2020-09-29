@@ -1,0 +1,64 @@
+- name: 在线工具
+  url: http://tool.lu/
+  img: /images/tools.png
+  description: 
+- name: 在线工具(2)
+  url: http://www.atool.org/
+  img: /images/tools.png
+  description: 
+- name: 手册网
+  url: http://www.shouce.ren/
+  img: /images/shouce.png
+  description: 
+- name: 不白搜
+  url: http://www.bubaiso.com/
+  img: /images/shousuo.png
+  description: 
+- name: 码库
+  url: https://www.ctolib.com/
+  img: /images/maku.png
+  description: 
+- name: 图片压缩
+  url: https://tinypng.com/
+  img: /images/yasuo.png
+  description: 
+- name: 代码对比(Diff)
+  url: https://www.diffchecker.com/
+  img: /images/vs.png
+  description:
+- name: 在线美图秀秀
+  url: http://xiuxiu.web.meitu.com/main.html
+  img: /images/meitu.png
+  description: 中国超流行的在线图片处理工具！
+- name: 在线PS
+  url: https://www.uupoop.com/
+  img: /images/ps.png
+  description: PS在线图片编辑器是一个专业精简的在线ps图片照片制作处理软件工具，绿色免安装，免下载，直接在浏览器打开就可用它修正，调整和美化图像。
+- name: 草料二维码
+  url: https://cli.im/
+  img: /images/erweima.png
+  description: 草料二维码是国内专业的二维码服务提供商，提供二维码生成，美化，印制，管理，统计等服务，帮助企业通过二维码展示信息并采集线下数据，提升营销和管理效率。
+- name: NiceTool
+  url: http://www.nicetool.net/
+  img: /images/tools.png
+  description: 在线工具大全，用完即走，触手可及！
+- name: TinyPNG
+  url: https://tinypng.com/
+  img: /images/TinyPNG.png
+  description: 易用的图片在线压缩工具！
+- name: BT_Panel 宝塔开心面板
+  url: https://moecat.cn/
+  img: /images/default.jpg
+  description: 支持 Centos、Debian、Ubuntu 全新 以及 已安装面板 进行开心！
+- name: 英文字母大小写转换
+  url: https://www.iamwawa.cn/daxiaoxie.html
+  img: /images/big_to_small.png
+  description: 英文字母大小写转换。
+- name: 免费在线设计制作Logo
+  url: https://www.canva.cn/
+  img: /images/logo-canva.svg
+  description: 在线进行Logo设计制作,主要用于图标设计！
+- name: 图标和图形生成器
+  url: https://zh-cn.cooltext.com/
+  img: /images/logo-cooltext.png
+  description: 免费的图形生成器，主要用于文字生成彩色图片
