@@ -1,0 +1,48 @@
+- name: Victor's Blog
+  url: https://boke.crshare.tk/
+  img: /images/default.jpg
+  description: 科技blog
+- name: 小小白
+  url: https://trojanv2ray.blogspot.com/
+  img: /images/default.jpg
+  description: 小小白简单科技
+- name: 白俊遥
+  url: https://baijunyao.com/
+  img: /images/default.jpg
+  description: 
+- name: 廖雪峰
+  url: https://www.liaoxuefeng.com/
+  img: /images/default.jpg
+  description: 
+- name: 王垠
+  url: http://www.yinwang.org/
+  img: /images/default.jpg
+  description: 
+- name: 崔庆才博客
+  url: https://cuiqingcai.com/
+  img: /images/default.jpg
+  description: 
+- name: 言曌博客
+  url: https://liuyanzhao.com/
+  img: /images/default.jpg
+  description: 
+- name: 陈晨
+  url: http://jsyzchen.com/
+  img: /images/default.jpg
+  description: 
+- name: Go博客
+  url: https://bingohuang.com/
+  img: /images/default.jpg
+  description: 
+- name: 神奇的胖子
+  url: http://www.zhangxihai.cn/
+  img: /images/default.jpg
+  description: 
+- name: 森七
+  url: http://www.mosq.cn/sort/jianzhan
+  img: /images/default.jpg
+  description: 
+- name: Go笔记
+  url: https://golangnote.com/
+  img: /images/default.jpg
+  description: 
