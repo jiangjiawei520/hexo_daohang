@@ -1,73 +1,21 @@
 - name: 蒋家威的博客
-  url: https://bk.jiang7zzz.xyz/
+  url: https://bk.jiangjiawei.xyz/
   img: /images/favicon.ico
   description: 我的个人博客hexo
-- name: 蒋家威的音乐网站
-  url: http://nicemusic.jiang7zzz.xyz/
-  img: /images/default.jpg
-  description: 我的个人音乐网站
-- name: 蒋家威的音乐网站
-  url: http://music.5li.cc/
-  img: /images/default.jpg
-  description: 我的个人音乐网站
-- name: 蒋家威的视频网站
-  url: http://jiang178.5li.cc/
-  img: /images/default.jpg
-  description: 我的个人视频网站
-- name: 蒋家威的影视搜索
-  url: http://search.jiang7zzz.xyz/
-  img: /images/default.jpg
-  description: 我的影视搜索网站
-- name: 蒋家威的豆瓣画廊
-  url: http://movie-gallery3d.jiang7zzz.xyz/
-  img: /images/default.jpg
-  description: 爬取豆瓣网 (https://movie.douban.com/) 近期上映电影及打分与影评数据，并结合 three.js 以 CSS3 三维动画的形式进行展现。
 - name: 蒋家威的工具箱
-  url: http://tools.jiang7zzz.xyz/
+  url: http://tools.jiangjiawei.xyz/
   img: /images/default.jpg
   description: 我的工具箱网站
 - name: 蒋家威的笔记
-  url: http://notes.jiang7zzz.xyz/
+  url: http://notes.jiangjiawei.xyz/
   img: /images/favicon.ico
   description: 记录笔记的小窝
-- name: 蒋家威的网盘管理工具
-  url:  http://185.217.168.42:8020/
-  img: /images/google drive.jpg
-  description: google drive 网盘
-- name: 蒋家威的Cloud
-  url: https://cloud.jiangjiawei.workers.dev/0:/
-  img: /images/default.jpg
-  description: 一个轻量级、适应多种平台、适应多种网盘的在线文件目录及文件管理工具。
-- name: 蒋家威的GD Share
-  url: https://gdshare.jiangjiawei.workers.dev/
-  img: /images/google drive.jpg
-  description: 有以下特性全盘搜索、分页浏览、更美观的UI、防爬虫、可以生成下载直链和可以生成带有提取码的分享链接等
-- name: 他人分享的GD Share
-  url: https://gdshare.best-share.workers.dev/
-  img: /images/google drive.jpg
-  description: 密码:gdshare,有以下特性全盘搜索、分页浏览、更美观的UI、防爬虫、可以生成下载直链和可以生成带有提取码的分享链接等
-- name: 我的OneIndex
-  url: http://jiangjiawei.5li.cc/
-  img: /images/onedrive.jpg
-  description: onedrive网盘
-- name: 蒋家威的留言板
-  url: http://mypigeon.5li.cc/
-  img: /images/liuyan.jpg
-  description: 我的留言板
 - name: 蒋家威的Linux命令大全
-  url: http://linux.jiang7zzz.xyz/
+  url: http://linux.jiangjiawei.xyz/
   img: /images/linux.jpg
   description: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
-- name: 蒋家威的博客
-  url: http://blog.jiang7zzz.xyz/
-  img: /images/favicon.ico
-  description: 我的个人博客
-- name: 蒋家威的博客epizy
-  url: http://jiangjiawei.epizy.com/
-  img: /images/epizy.png
-  description: 被替代的个人博客
 - name: 蒋家威的导航HTML
-  url: https://daohang.jiang7zzz.xyz/
+  url: https://daohang.jiangjiawei.xyz/
   img: /images/favicon.ico
   description: 我的HTML静态导航
 - name: 开发人员导航站

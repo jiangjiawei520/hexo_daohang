@@ -106,11 +106,11 @@ theme: webstack
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
    type: git
-   repo: git@github.com:JiangJiaWei520/hexo_daohang.git
+   repo: git@github.com:jiangjiawei520/hexo_daohang.git
    branch: master
    
 backup:
   type: git
   message: Back up my daohang
   repository:
-    github: git@github.com:JiangJiaWei520/hexo_daohang.git,backup
+    github: git@github.com:jiangjiawei520/hexo_daohang.git,backup

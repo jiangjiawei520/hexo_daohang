@@ -1,3 +1,7 @@
+- name: HTML/URL To Markdown
+  url: https://devtool.tech/html-md
+  img: /images/tools.png
+  description: 
 - name: 在线工具
   url: http://tool.lu/
   img: /images/tools.png

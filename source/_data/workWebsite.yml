@@ -6,6 +6,10 @@
   url: http://demo-lt.geostar.com.cn:10350/zentao/my/
   img: /images/logo-chandao.ico
   description: 国产的开源项目管理软件
+- name: 公司邮箱
+  url: https://mail.geostar.com.cn/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.geostar.com.cn%2fowa%2f
+  img: /images/default.jpg
+  description: 公司邮箱
 - name: SecFox
   url: https://172.16.250.143/#/login
   img: /images/logo-company.png
@@ -15,7 +19,7 @@
   img: /images/logo-amijia.png
   description: 公司研发的业务经营管理软件
 - name: 正式-土地管理与决策支持系统（免密）
-  url: http://19.16.240.43:8080/default/coframe/auth/login/jsydLoginWithNoPassword.jsp#
+  url: http://19.16.240.43:8080/default/coframe/auth/login/jsydLogin_withNoPassword.jsp
   img: /images/logo-juece.png
   description: 辅助决策系统
 - name: 人员管理-广东省土地管理与决策支持系统（免密）

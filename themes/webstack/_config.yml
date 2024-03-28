@@ -22,6 +22,12 @@ menu:
       - name: 工作常用
         icon: fas fa-tools
         config: workWebsite
+      - name: 规划院（正式）
+        icon: fas fa-tools
+        config: zhglptZs
+      - name: 规划院（测试）
+        icon: fas fa-tools
+        config: zhglptCs
       - name: 个人网站
         icon: fas fa-tools
         config: personalWebsite
@@ -166,10 +172,10 @@ aboutPage:
   webmaster:
     head: 关于站长
     name: JWSingle
-    url: http://dh.jiang7zzz.xyz/
+    url: http://dh.jiangjiawei.xyz/
     img: /images/logos/myblog.png
     description: 懒人一个
-    html: '<br /><blockquote><p>本站是<a href="http://dh.jiang7zzz.xyz/">JWSingle</a>基于<a href="https://github.com/HCLonely">hexo-theme-webstack</a>项目Fork做的一款<a href="https://hexo.io/">Hexo</a>主题导航。</p></blockquote>'
+    html: '<br /><blockquote><p>本站是<a href="http://dh.jiangjiawei.xyz/">JWSingle</a>基于<a href="https://github.com/HCLonely">hexo-theme-webstack</a>项目Fork做的一款<a href="https://hexo.io/">Hexo</a>主题导航。</p></blockquote>'
 
 since: 2020
 
