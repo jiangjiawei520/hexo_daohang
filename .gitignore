@@ -1,4 +1,6 @@
 .DS_Store
+.deploy_git
+.git
 Thumbs.db
 db.json
 *.log
