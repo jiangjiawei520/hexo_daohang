@@ -32,6 +32,6 @@ jobs:
     - name: 下载 Npm 依赖
       run: |
         npm install
-    - name: 部署博客
+    - name: 部署导航
       run: |
         hexo d
