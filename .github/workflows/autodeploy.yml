@@ -1,4 +1,4 @@
-name: 部署 Hexo 到 GithubPage
+name: 笔记本部署 Hexo 到 GithubPage
 on:
   push:
     branches: [ "backup" ]
@@ -16,7 +16,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: 配置 SSH 环境和 Git 环境
       env:
-        ACTION_DEPLOY_KEY: ${{ secrets.ACCESS_TOKEN }}
+        ACTION_DEPLOY_KEY: ${{ secrets.BJBDH_ACCESS_TOKEN }}
       run: |
         mkdir -p ~/.ssh/
         echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
