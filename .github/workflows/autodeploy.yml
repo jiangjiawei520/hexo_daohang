@@ -1,0 +1,37 @@
+name: 部署 Hexo 到 GithubPage
+on:
+  push:
+    branches: [ "backup" ]
+jobs:
+  HexoDeploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [v18.16.1]
+    steps:
+    - uses: actions/checkout@v3
+    - name: 使用 Node.js ${{ matrix.node-version }} 环境
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: 配置 SSH 环境和 Git 环境
+      env:
+        ACTION_DEPLOY_KEY: ${{ secrets.ACCESS_TOKEN }}
+      run: |
+        mkdir -p ~/.ssh/
+        echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
+        chmod 700 ~/.ssh
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        git config --global user.email "1781749069@qq.com"
+        git config --global user.name "jiangjiawei520"
+    - name: 配置 Hexo 环境
+      run: |
+        export TZ='Asia/Shanghai'
+        npm install hexo-cli -g
+    - name: 下载 Npm 依赖
+      run: |
+        npm install
+    - name: 部署博客
+      run: |
+        hexo d
