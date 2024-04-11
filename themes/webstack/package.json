@@ -16,12 +16,12 @@
   "author": "HCLonely <h1606051253@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HCLonely/hexo-theme-webstack/issues",
+    "url": "https://xxxxxx/issues",
     "email": "h1606051253@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HCLonely/hexo-theme-webstack.git"
+    "url": "https://xxxxxx.git"
   },
   "devDependencies": {
     "clean-css-cli": "^4.3.0",
