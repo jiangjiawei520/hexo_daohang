@@ -1,5 +1,4 @@
 .DS_Store
-.deploy_git
 .git
 Thumbs.db
 db.json
@@ -7,4 +6,8 @@ db.json
 node_modules/
 public/
 .deploy*/
+_multiconfig.yml
+.vscode
+.vs
+*.code-workspace
 .history
