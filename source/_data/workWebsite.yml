@@ -18,23 +18,15 @@
   url: http://ame.geostar.com.cn:8096/default/sso.login
   img: /images/logo-amijia.png
   description: 公司研发的业务经营管理软件
-- name: 正式-土地管理与决策支持系统（免密）
-  url: http://19.16.240.43:8080/default/coframe/auth/login/jsydLogin_withNoPassword.jsp
-  img: /images/logo-juece.png
-  description: 辅助决策系统
-- name: 人员管理-广东省土地管理与决策支持系统（免密）
-  url: http://172.16.101.41:8080/default/coframe/auth/login/jsydLoginWithNoPassword.jsp
-  img: /images/logo-juece.png
-  description: 辅助决策系统
-- name: 测试-广东省土地管理与决策支持系统（免密）
-  url: http://172.16.101.19:8080/default/coframe/auth/login/jsydLoginWithNoPassword.jsp
-  img: /images/logo-juece.png
-  description: 辅助决策系统
-- name: 正式-Apollo（阿波罗）
-  url: http://172.16.101.103:8070/signin
-  img: /images/logo-Apollo.png
-  description: 分布式配置中心，能够集中化管理应用不同环境、不同集群的配置
-- name: 测试-Apollo（阿波罗）
-  url: http://172.16.101.103:8070/signin
-  img: /images/logo-Apollo.png
-  description: 分布式配置中心，能够集中化管理应用不同环境、不同集群的配置
+- name: 东涌机房
+  url: https://192.168.217.152/shterm/login
+  img: /images/default.jpg
+  description: RIS 数据中心风险洞察系统
+- name: 名美机房
+  url: https://192.168.156.150/shterm/login
+  img: /images/default.jpg
+  description: RIS 数据中心风险洞察系统
+- name: 南基机房
+  url: https://10.151.34.15/shterm/login
+  img: /images/default.jpg
+  description: RIS 数据中心风险洞察系统

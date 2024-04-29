@@ -15,7 +15,7 @@
   img: /images/linux.jpg
   description: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
 - name: 蒋家威的导航HTML
-  url: https://daohang.jiangjiawei.xyz/
+  url: https://dh.jiangjiawei.xyz/
   img: /images/favicon.ico
   description: 我的HTML静态导航
 - name: 开发人员导航站
@@ -30,7 +30,3 @@
   url: https://heyterm.com/
   img: /images/default.jpg
   description: 服务器集中批量管理远程加速--HeyTerm HeyTerm又称嘿哟终端,这是一个网页端的集中管理服务,并且可以加速远程的连接速度
-- name: LinkCloud | HCaaS
-  url: https://cubepaas.com/
-  img: /images/default.jpg
-  description: 费用比传统虚机便宜很多。规格完全自定义（可以非常小），适合个人开发者、容器爱好者。
