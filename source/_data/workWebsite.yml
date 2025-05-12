@@ -2,31 +2,3 @@
   url: https://www.kdocs.cn/latest
   img: /images/logo-jinshan.jpg
   description: 文档管理
-- name: 禅道
-  url: http://demo-lt.geostar.com.cn:10350/zentao/my/
-  img: /images/logo-chandao.ico
-  description: 国产的开源项目管理软件
-- name: 公司邮箱
-  url: https://mail.geostar.com.cn/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.geostar.com.cn%2fowa%2f
-  img: /images/default.jpg
-  description: 公司邮箱
-- name: SecFox
-  url: https://172.16.250.143/#/login
-  img: /images/logo-company.png
-  description: 运维安全管理与审计系统
-- name: 阿米加
-  url: http://ame.geostar.com.cn:8096/default/sso.login
-  img: /images/logo-amijia.png
-  description: 公司研发的业务经营管理软件
-- name: 东涌机房
-  url: https://192.168.217.152/shterm/login
-  img: /images/default.jpg
-  description: RIS 数据中心风险洞察系统
-- name: 名美机房
-  url: https://192.168.156.150/shterm/login
-  img: /images/default.jpg
-  description: RIS 数据中心风险洞察系统
-- name: 南基机房
-  url: https://10.151.34.15/shterm/login
-  img: /images/default.jpg
-  description: RIS 数据中心风险洞察系统

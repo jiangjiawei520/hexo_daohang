@@ -22,12 +22,6 @@ menu:
       - name: 工作常用
         icon: fas fa-tools
         config: workWebsite
-      - name: 规划院（正式）
-        icon: fas fa-tools
-        config: zhglptZs
-      - name: 规划院（测试）
-        icon: fas fa-tools
-        config: zhglptCs
       - name: 个人网站
         icon: fas fa-tools
         config: personalWebsite
