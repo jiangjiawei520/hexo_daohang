@@ -166,10 +166,10 @@ aboutPage:
   webmaster:
     head: 关于站长
     name: JWSingle
-    url: http://dh.jiangjiawei.xyz/
+    url: http://dh.jiangjiawei.love/
     img: /images/logos/myblog.png
     description: 懒人一个
-    html: '<br /><blockquote><p>本站是<a href="http://dh.jiangjiawei.xyz/">JWSingle</a>基于<a href="https://github.com/HCLonely">hexo-theme-webstack</a>项目Fork做的一款<a href="https://hexo.io/">Hexo</a>主题导航。</p></blockquote>'
+    html: '<br /><blockquote><p>本站是<a href="http://dh.jiangjiawei.love/">JWSingle</a>基于<a href="https://github.com/HCLonely">hexo-theme-webstack</a>项目Fork做的一款<a href="https://hexo.io/">Hexo</a>主题导航。</p></blockquote>'
 
 since: 2020
 
