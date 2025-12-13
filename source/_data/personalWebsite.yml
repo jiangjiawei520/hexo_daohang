@@ -6,10 +6,10 @@
   url: http://linux.jiangjiawei.love/
   img: /images/linux.jpg
   description: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
-- name: 蒋家威的导航HTML
-  url: https://dh.jiangjiawei.love/
-  img: /images/favicon.ico
-  description: 我的HTML静态导航
+- name: 蒋家威的新闻站
+  url: https://newsnow.jiangjiawei.love/
+  img: /images/icon.svg
+  description: 新闻收集网站
 - name: 开发人员导航站
   url: http://www.devnav.cn/
   img: /images/logo-devnav.png
