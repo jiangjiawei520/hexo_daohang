@@ -6,3 +6,32 @@
   url: https://vpn.tjhq.com/prx/000/http/localhost/welcome/index.html
   img: /images/logo-vpn.jpg
   description: 
+- name: 内部知识库
+  url: http://10.10.123.20:8181/ceres/business-cms-web/cmsIndex
+  img: /images/default.jpg
+  description: 
+- name: 公司-数据支撑系统模板库
+  url: http://192.168.5.116:81/yjdb/login?redirect=%2Fdashboard%2Fconsole
+  img: /images/default.jpg
+  description: 
+- name: 正式-数据支撑子系统
+  url: http://210.76.84.26:8989/yjdb/login
+  img: /images/default.jpg
+  description: 
+- name: 正式-数据支撑子系统ETL
+  url: http://210.76.84.26:8002/ceres/portal-admin-frontpage-web/
+  img: /images/default.jpg
+  description: 
+- name: 全国-以奖代补平台
+  url: https://10.160.0.47/yjdb/index
+  img: /images/default.jpg
+  description: 
+- name: 公司--贵州水利系统
+  url: http://10.10.123.20:8686/ceres/portal-login-web/
+  img: /images/default.jpg
+  description: 
+- name: 南基堡垒机
+  url: https://10.151.34.18/index/#/index/profile/om?type=ASSET_NODE&selectedId=1&orderby=&pageNumber=1&pageSize=20
+  img: /images/default.jpg
+  description: 
+
