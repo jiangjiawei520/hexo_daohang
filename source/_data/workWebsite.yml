@@ -26,6 +26,10 @@
   url: https://10.160.0.47/yjdb/index
   img: /images/default.jpg
   description: 
+- name: 正式-数据可视化系统
+  url: http://210.76.84.26:8989/ddvs/
+  img: /images/default.jpg
+  description: 
 - name: 公司--贵州水利系统
   url: http://10.10.123.20:8686/ceres/portal-login-web/
   img: /images/default.jpg
