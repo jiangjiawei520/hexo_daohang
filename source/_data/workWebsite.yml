@@ -34,6 +34,10 @@
   url: http://10.10.123.20:8686/ceres/portal-login-web/
   img: /images/default.jpg
   description: 
+- name: 公司--贵州住建系统
+  url: http://192.168.5.128:8800/ceres/portal-login-web
+  img: /images/default.jpg
+  description: 
 - name: 南基堡垒机
   url: https://10.151.34.18/index/#/index/profile/om?type=ASSET_NODE&selectedId=1&orderby=&pageNumber=1&pageSize=20
   img: /images/default.jpg
