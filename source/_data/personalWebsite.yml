@@ -1,13 +1,13 @@
 - name: 蒋家威的博客
-  url: https://bk.jiangjiawei.love/
+  url: https://bk.jiangjiawei.eu.cc/
   img: /images/favicon.ico
   description: 我的个人博客hexo
 - name: 蒋家威的Linux命令大全
-  url: http://linux.jiangjiawei.love/
+  url: http://linux.jiangjiawei.eu.cc/
   img: /images/linux.jpg
   description: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
 - name: 蒋家威的新闻站
-  url: https://newsnow.jiangjiawei.love/
+  url: https://newsnow.jiangjiawei.eu.cc/
   img: /images/icon.svg
   description: 新闻收集网站
 - name: 开发人员导航站
